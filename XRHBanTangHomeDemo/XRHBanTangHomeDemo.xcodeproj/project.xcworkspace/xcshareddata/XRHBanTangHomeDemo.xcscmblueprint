@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A53F5016356302C3D00580745CA34982B0F81897",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CF3D0AF2A0DD777D3CD1FF70C05E9FD9D40789C4" : 9223372036854775807,
+    "A53F5016356302C3D00580745CA34982B0F81897" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9649C35E-E96C-4E76-B4BA-2431B3472351",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CF3D0AF2A0DD777D3CD1FF70C05E9FD9D40789C4" : "JSDBanTangHomeDemo\/",
+    "A53F5016356302C3D00580745CA34982B0F81897" : "BanTangHomeDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XRHBanTangHomeDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XRHBanTangHomeDemo\/XRHBanTangHomeDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GongChengKuangShi\/BanTangHomeDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A53F5016356302C3D00580745CA34982B0F81897"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JoySeeDog\/JSDBanTangHomeDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CF3D0AF2A0DD777D3CD1FF70C05E9FD9D40789C4"
+    }
+  ]
+}
